@@ -1,8 +1,7 @@
 {
   "name": "my-excel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My JS ecxel application",
-  "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "cross-env NODE_ENV=development webpack serve --open 'Google Chrome'",
